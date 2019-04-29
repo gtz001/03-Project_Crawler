@@ -4,7 +4,16 @@
     <bookmark url="file://$PROJECT_DIR$/03_regex.py" line="100" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfd2575-ffeb-4923-91f1-876255849bbd" name="Default Changelist" comment="" />
+    <list default="true" id="9dfd2575-ffeb-4923-91f1-876255849bbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/链家-第0页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/链家-第1页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/链家-第2页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/链家-第3页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/链家-第4页.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +21,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_regex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="21" />
+              <folding>
+                <element signature="e#205#452#0" />
+                <element signature="e#496#747#0" />
+                <element signature="e#787#1000#0" />
+                <element signature="e#1048#1297#0" />
+                <element signature="e#1340#1477#0" />
+                <element signature="e#1518#1719#0" />
+                <element signature="e#1775#1932#0" />
+                <element signature="e#1969#2331#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-html.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,7 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,6 +72,7 @@
         <option value="$PROJECT_DIR$/03-regex.py" />
         <option value="$PROJECT_DIR$/Web/链家-第0页.html" />
         <option value="$PROJECT_DIR$/03_regex.py" />
+        <option value="$PROJECT_DIR$/04-html.py" />
       </list>
     </option>
   </component>
@@ -46,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,12 +104,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../01-Notes/17-Project3/onlybuy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -89,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03_regex">
+  <component name="RunManager" selected="Python.04-html">
     <configuration name="01_lianjia_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProgressTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,8 +176,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="04-html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgressTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-html.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04-html" />
         <item itemvalue="Python.03_regex" />
         <item itemvalue="Python.01_lianjia_spider" />
       </list>
@@ -158,16 +223,18 @@
       <workItem from="1556240304914" duration="2092000" />
       <workItem from="1556243302120" duration="777000" />
       <workItem from="1556314591217" duration="69000" />
+      <workItem from="1556498828084" duration="2289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11148000" />
+    <option name="totallyTimeSpent" value="13437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.11831198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.11953514" />
       <window_info id="Structure" order="1" sideWeight="0.50096714" side_tool="true" weight="0.2388847" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,13 +256,37 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.11953514" />
+      <window_info id="Structure" order="1" sideWeight="0.50096714" side_tool="true" weight="0.2388847" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30561554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Project$01_lianjia_spider.coverage" NAME="01_lianjia_spider Coverage Results" MODIFIED="1556200288425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$03_regex.coverage" NAME="03_regex Coverage Results" MODIFIED="1556242344238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$01_lianjia_spider.coverage" NAME="01_lianjia_spider Coverage Results" MODIFIED="1556200288425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$04_html.coverage" NAME="04-html Coverage Results" MODIFIED="1556500466388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01_lianjia_spider.py">
@@ -218,10 +309,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_regex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="118">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="21" />
           <folding>
+            <element signature="e#205#452#0" />
+            <element signature="e#496#747#0" />
+            <element signature="e#787#1000#0" />
+            <element signature="e#1048#1297#0" />
+            <element signature="e#1340#1477#0" />
+            <element signature="e#1518#1719#0" />
             <element signature="e#1775#1932#0" />
+            <element signature="e#1969#2331#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第html页.">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第{}页..html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第1页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第0页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第2页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第3页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/链家第6页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
