@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9dfd2575-ffeb-4923-91f1-876255849bbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_coordinate.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_coordinate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/Project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/Project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/spider/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/spider/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,11 +44,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="993" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+    <option name="y" value="27" />
+    <option name="width" value="917" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -79,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -246,16 +247,17 @@
       <workItem from="1557103858981" duration="5708000" />
       <workItem from="1557190308415" duration="140000" />
       <workItem from="1557214017304" duration="820000" />
+      <workItem from="1557281878424" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26169000" />
+    <option name="totallyTimeSpent" value="26180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="993" y="25" width="927" height="1055" extended-state="4" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.2553916" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.12617598" />
       <window_info id="Structure" order="1" sideWeight="0.50096714" side_tool="true" weight="0.2388847" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

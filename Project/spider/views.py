@@ -7,6 +7,7 @@ from multiprocessing import Lock
 import re
 import time
 
+
 # Create your views here.
 def spider(request):
     class Coordinate(object):
@@ -69,10 +70,10 @@ def spider(request):
         def second_page(self, first_html):
             for first_url in first_html:
                 second_restext = self.second_get_page(first_url)
-                time.sleep(1)
+                time.sleep(10)
                 second_html = self.second_prase_page(second_restext)
                 self.write_page(second_html)
-                time.sleep(1)
+                time.sleep(10)
 
         def main(self):
             t_list = []
@@ -85,10 +86,16 @@ def spider(request):
                 p.join()
 
     coordinate = Coordinate()
+
     coordinate.main()
 
+
+    t1 = Thread(target=coordinate.main)
+
+    t1.start()
+
+    t1.join()
+
     return HttpResponse('1')
-
-
 
 
